@@ -1,5 +1,4 @@
-@import "{{ site.theme }}"
-  "variables",
+@import   "variables",
   "themes",
   "layout",
   "base",
@@ -13,5 +12,4 @@
   "font-awesome/regular",
   "tabler-icons/tabler-icons.scss",
   "tabler-icons/tabler-icons-filled.scss",
-  "tabler-icons/tabler-icons-outline.scss"
-;
+  "tabler-icons/tabler-icons-outline.scss""{{ site.theme }}";
