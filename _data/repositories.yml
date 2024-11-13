@@ -1,9 +1,14 @@
 github_users:
-  - morganmcerlean
-  
+  - torvalds
+  - alshedivat
+
 repo_description_lines_max: 2
 
 github_repos:
-  - morganmcerlean/morganmcerlean
-  - morganmcerlean/morganmcerlean.github.io
-  - ArtificialIntelligenceToolkit/aitk
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
