@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: morganmcerlean.github.io/sitemap.xml
+Sitemap: morganmcerlean.github.io/al-folio/sitemap.xml
