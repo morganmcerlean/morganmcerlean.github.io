@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Undergraduate Researcher @ Swarthmore College</a>.
+subtitle: <a href='#'>Undergraduate HCI Researcher @ Swarthmore College</a>.
 
 profile:
   align: right
