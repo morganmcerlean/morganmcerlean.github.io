@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-This website is a work in progress! Thank you for your patience as I figure this out!!
+This website is a work in progress! Thank you for your patience.
+
+Currently a junior at Swarthmore College and following graduation plan to pursue a PhD in Human-Computer Interaction. In particular, interested in research that involves expanding and supporting restorative and environmental justice practices and theory.
 
 <!---
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
