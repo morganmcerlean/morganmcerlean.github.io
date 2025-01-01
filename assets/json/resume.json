@@ -1,200 +1,130 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Morgan McErlean",
+    "label": "Undergraduate HCI Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mmcerle1@swarthmore.edu",
+    "url": "",
+    "summary": "Currently a junior at Swarthmore College and following graduation plan to pursue a PhD in Human-Computer Interaction. In particular, interested in research that involves expanding and supporting restorative and environmental justice practices and theory.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "500 College Ave",
+      "postalCode": "PA 19081",
+      "city": "Swarthmore",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": ""
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Collective Resilience Lab, Swarthmore College",
+      "position": "Research Assistant",
+      "startDate": "Aug 2024",
+      "endDate": "Present",
+      "summary": "Current Projects: Deep Fake Audit, Literature Review of SoK User Studies.",
+      "highlights": ["HCI"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Swarthmore College CS Department",
+      "position": "Teaching Assistant “Ninja”",
+      "startDate": "Sep 2023",
+      "endDate": "Present",
+      "summary": "Assist in “Introduction to Computer Science,” “Data Structures and Algorithms,” and “Introduction to Computer Systems” lectures and labs.",
+      "highlights": ["TA-ing"]
+    },
+    {
+      "name": "Artificial Intelligence Toolkit Lab, Swarthmore College",
+      "position": "Research Assistant",
+      "url": "https://github.com/ArtificialIntelligenceToolkit/aitk",
+      "startDate": "May 2024",
+      "endDate": "August 2024",
+      "summary": "Focus on developing computational essays that center, explore, and contextualize pressing ethical concerns with respect to AI.",
+      "highlights": ["AITK"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Swarthmore College",
+      "location": "Swarthmore, PA, USA",
+      "url": "https://www.swarthmore.edu/",
+      "area": "Double major: Computer Science (Honors Major) and English Literature with concentration in Literature of the Resistance (Honors Minor)",
+      "studyType": "BA",
+      "startDate": "Aug 2022",
+      "endDate": "May 2026",
+      "GPA": "3.8/4.0",
+      "courses": ["Computational Image"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": " Bailyn, Lotte L. '51 Research Endowment",
+      "date": "May 2024",
+      "awarder": "Swarthmore College",
+      "summary": "The Lotte Lazarsfeld Bailyn '51 Research Endowment established by Bernard Bailyn in 2005, in honor of his wife, the T. Wilson Professor of Management, emerita, at MIT. The fund supports a student summer research fellowship for a rising junior or senior woman majoring in mathematics, science, or engineering who intends to go into graduate studies in one or more of these fields."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Social & Behavioral Research",
+      "date": "28-Jul-2024",
+      "issuer": "CITI Program",
+      "url": "https://www.citiprogram.org/verify/?k334daeba-7dbf-43ac-9086-66e4d0b87272-64079583",
       "icon": "fa-solid fa-location-dot"
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "AI Toolkit: Libraries and Essays for Exploring the Technology and Ethics of AI",
+      "publisher": "EAAI: The Symposium on Educational Advances in Artificial Intelligence",
+      "releaseDate": "2025",
+      "url": "https://www.cs.swarthmore.edu/~meeden/papers/meeden.eaai25.pdf",
+      "summary": "In this paper we describe the development and evaluation of AITK, the Artificial Intelligence Toolkit. This open-source project contains both Python libraries and computational essays (Jupyter notebooks) that together are designed to allow a diverse audience with little or no background in AI to interact with a variety of AI tools, exploring in more depth how they function, visualizing their outcomes, and gaining a better understanding of their ethical implications. These notebooks have been piloted at multiple institutions in a variety of humanities courses centered on the theme of responsible AI. In addition, we conducted usability testing of AITK. Our pilot studies and usability testing results indicate that AITK is easy to navigate and effective at helping users gain a better understanding of AI. Our goal, in this time of rapid innovations in AI, is for AITK to provide an accessible resource for faculty from any discipline looking to incorporate AI topics into their courses and for anyone eager to learn more about AI on their own."
     },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "German",
+      "fluency": "Proficient",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Human-Computer Interaction",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Social Computing",
+        "Feminist HCI",
+        "Social Justice",
+        "Restorative Justice",
+        "Environmental Justice",
+        "Transformative Justice"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Restorative Justice Activists and AI-Harms (Proposed Thesis)",
+      "highlights": ["participatory action/design", "community-based", "AI bias"],
+    },
+    {
+      "name": "Grant Proposal: Chester-Philadelphia Youth Alliance (in-progress)",
+      "highlights": ["justice, education", "grant co-lead", "value of $25K"],
     }
   ]
 }
