@@ -2,7 +2,7 @@
 layout: page
 title: Grant Proposal: Chester Philadelphia Youth Alliance
 description: (in progress)
-img: assets/img/3.jpg
+img: assets/img/reentry.jpg
 importance: 2
 category: work
 giscus_comments: true
