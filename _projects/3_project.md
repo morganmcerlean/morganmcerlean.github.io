@@ -3,7 +3,7 @@ layout: page
 title: Restorative Justice Activists and AI-Harms  
 description: (Proposed Thesis)
 img: assets/img/7.jpg
-importance: 2
+importance: 3
 category: research
 ---
 
