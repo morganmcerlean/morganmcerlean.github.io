@@ -3,7 +3,7 @@ layout: page
 title: Taxonomy of Deepfake Harms
 description: (R&R at CHI)
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: research
 related_publications: true
 ---
