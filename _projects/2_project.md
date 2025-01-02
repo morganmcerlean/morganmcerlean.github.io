@@ -4,7 +4,7 @@ title: Grant Proposal: Chester Philadelphia Youth Alliance
 description: (in progress)
 img: assets/img/3.jpg
 importance: 2
-category: research
+category: work
 giscus_comments: true
 ---
 
