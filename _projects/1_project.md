@@ -1,16 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Taxonomy of Deepfake Harms
+description: (R&R at CHI)
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This paper is associated with the Collective Resilience Lab at Swarthmore College. In this research, we created a taxonomy of deepfake harms, gathering incidents, coding for the resultant harms of deepfakes, and provide a systematic analysis. Over 536
+real-world incidents of harm caused by deepfakes across 31 months and 54 countries comprise our dataset. We find that deepfake use pervades every aspect of our lives, from politics and crime to entertainment and health.
+
+I served as a coder and contributed to the writing and editing of the paper.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
