@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grant Proposal: Chester Philadelphia Youth Alliance
+title: Grant Proposal- Chester Philadelphia Youth Alliance
 description: (in progress)
 img: assets/img/reentry.jpg
 importance: 2
