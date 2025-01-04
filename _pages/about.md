@@ -6,12 +6,9 @@ subtitle: <a href='#'>She/Her | Undergraduate HCI Researcher @ Swarthmore Colleg
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Swarthmore College</p>
-    <p>500 College Ave.</p>
-    <p>Swarthmore, PA 19081</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
