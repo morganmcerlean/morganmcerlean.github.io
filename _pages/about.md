@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Undergraduate HCI Researcher @ Swarthmore College</a>.
+subtitle: <a href='#'>She/Her | Undergraduate HCI Researcher @ Swarthmore College</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
