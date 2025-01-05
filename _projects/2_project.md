@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grant Proposal- Chester Philadelphia Youth Alliance
-description: (in progress)
+title: Grant Proposal- Chester Philadelphia Young Adult Alliance (CPYAA)
+description: (submitted)
 img: assets/img/reentry.jpg
 importance: 1
 category: other
