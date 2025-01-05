@@ -43,9 +43,9 @@ restorative justice, and building thriving futures across the two cities.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pic1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/pic1.jpg" title="SolarAg Lab Summer 2024" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pic2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/pic2.jpg" title="Re-Entry Community Farm" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
