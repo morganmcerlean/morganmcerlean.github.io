@@ -16,8 +16,7 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": ""
-        "url": ""
+        "username": "MorganMcErlean"
       }
     ]
   },
@@ -120,11 +119,11 @@
   "projects": [
     {
       "name": "Restorative Justice Activists and AI-Harms (Proposed Thesis)",
-      "highlights": ["participatory action/design", "community-based", "AI bias"],
+      "highlights": ["participatory action/design", "community-based", "AI bias"]
     },
     {
       "name": "Grant Proposal: Chester-Philadelphia Youth Alliance (in-progress)",
-      "highlights": ["justice, education", "grant co-lead", "value of $25K"],
+      "highlights": ["justice, education", "grant co-lead", "value of $25K"]
     }
   ]
 }
