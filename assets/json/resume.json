@@ -57,7 +57,17 @@
       "startDate": "2022-08-01",
       "endDate": "2026-05-01",
       "GPA": "3.8/4.0",
-      "courses": ["Computational Image"]
+      "courses": ["Computational Image", "Social Computing (Spring 2025)", "Race, Gender, Class, and the Environment", "Discrete Mathematics"]
+    },
+    {
+      "institution": "Lady Margaret Hall, University of Oxford",
+      "location": "Oxford, UK",
+      "url": "https://www.lmh.ox.ac.uk/",
+      "area": "English Literature",
+      "studyType": "Visiting Student",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01",
+      "courses": ["Gothic Feminism", "Early Modern Women's Writing"]
     }
   ],
   "awards": [
