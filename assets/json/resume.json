@@ -75,6 +75,7 @@
       "title": "Bailyn, Lotte L. '51 Research Endowment",
       "date": "2024-05-01",
       "awarder": "Swarthmore College",
+      "url": "https://www.swarthmore.edu/summer-opportunities/funding-sources",
       "summary": "The Lotte Lazarsfeld Bailyn '51 Research Endowment established by Bernard Bailyn in 2005, in honor of his wife, the T. Wilson Professor of Management, emerita, at MIT. The fund supports a student summer research fellowship for a rising junior or senior woman majoring in mathematics, science, or engineering who intends to go into graduate studies in one or more of these fields."
     }
   ],
@@ -128,10 +129,12 @@
     {
       "name": "Restorative Justice Activists and AI-Harms (Proposed Thesis)",
       "highlights": ["participatory action and design", "community-based", "AI bias"]
+      "url": "https://morganmcerlean.github.io/projects/3_project/"
     },
     {
       "name": "Grant Proposal: Chester-Philadelphia Young Adult Alliance (submitted)",
       "highlights": ["justice", "education", "grant co-lead", "value of $25K"]
+      "url": "https://morganmcerlean.github.io/projects/2_project/"
     }
   ]
 }
