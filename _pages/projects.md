@@ -5,7 +5,7 @@ permalink: /projects/
 description: my current projects :)
 nav: true
 nav_order: 3
-display_categories: [research, grants, other]
+display_categories: [research, other]
 horizontal: false
 ---
 
